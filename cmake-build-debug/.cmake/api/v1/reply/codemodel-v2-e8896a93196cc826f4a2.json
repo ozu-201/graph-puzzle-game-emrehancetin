@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DataStructures_CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DartsGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DartsGame-Debug-296f3e30fcacbef46cdf.json",
+					"name" : "DartsGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructures_CPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructures_CPP-Debug-3f2c7eb895b7110781f5.json",
+					"name" : "DataStructures_CPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MathematicalExpression::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MathematicalExpression-Debug-2e7ba11504933662fec4.json",
+					"name" : "MathematicalExpression",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Polynomial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Polynomial-Debug-027137e953aad4aeb835.json",
+					"name" : "Polynomial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestLinkedList-Debug-0e6502c34fd7fea6d6fa.json",
+					"name" : "TestLinkedList",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ec028978/CLionProjects/graph-puzzle-game-emrehancetin/cmake-build-debug",
+		"source" : "C:/Users/ec028978/CLionProjects/graph-puzzle-game-emrehancetin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
