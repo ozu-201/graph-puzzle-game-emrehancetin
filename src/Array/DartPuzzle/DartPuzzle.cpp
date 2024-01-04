@@ -75,12 +75,9 @@ int main(){
     // ------------------------------------
     // Test Case: Adding Edges with One-Letter Difference (3 letter words)
     Graph graph3(4);
-    cout << "Geldi";
     graph3.addWord("cat");
-    cout << "Geldi2";
     graph3.addWord("cot");
     graph3.addWord("cog");
-    cout << "Geldi3";
     graph3.addWord("dog");
 
     graph3.addEdge("cat", "cot");
